@@ -13,6 +13,8 @@ import com.example.recyclerview.databinding.FragmentSecondBinding;
 
 public class  SecondFragment extends Fragment {
 
+
+
     private FragmentSecondBinding binding;
 
     @Override
